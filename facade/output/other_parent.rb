@@ -1,0 +1,3 @@
+class OtherParent
+
+end
